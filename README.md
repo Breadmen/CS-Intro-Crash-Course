@@ -1,2 +1,2 @@
 # CS-Intro-Crash-Course
-For Nick, Summer 2016
+Summer 2016

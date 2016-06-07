@@ -49,7 +49,7 @@ def addFiveSubTwoMulThree(x):
 	-addFiveSubTwoMulThree(10) return 39
 	"""
 	"""YOUR CODE HERE"""
-	return 3*(x+5-2)
+	return mul(sub(add(x, 5), 2), 3)
 
 def multiplySums(a, b, c, d):
 	"""
@@ -61,7 +61,7 @@ def multiplySums(a, b, c, d):
 	-multiplySums(1, 4, 3, 2) returns 25
 	"""
 	"""YOUR CODE HERE"""
-	return (a+b)*(c+d)
+	return mul(add(a, b), add(c, d))
 
 def greaterThanZero(x):
 	"""

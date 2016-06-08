@@ -1,1 +1,2 @@
-# CS-Intro-Crash-Course
+CS-Intro-Crash-Course
+Summer 2016
